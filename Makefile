@@ -8,7 +8,7 @@
 all: tests_run
 
 tests_run:
-	./logic.py
+	./exe_testing
 
 fclean:
 	$(RM) my_result
