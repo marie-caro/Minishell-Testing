@@ -19,3 +19,16 @@
 "cd .."={cd ..}
 "wrong cd"={cd oiuoiu}
 "mysh"={./mysh}
+"execute directory"={./lib}
+"setenv special char_name at the start"={setenv =LS color}
+"setenv special char_name"={setenv LS= color}
+"setenv special char_value"={setenv LS color=red}
+"setenv for unsetenv multiple"={setenv non}
+"unsetenv multiple var"={unsetenv oui non}
+"echo"={echo}
+"echo Hello"={echo Hello}
+"date"={date}
+"calendar"={cal}
+"cd /"={cd /}
+"thiscommanddoesnotexist"={thiscommanddoesnotexist}
+"ls -z"={ls -z}
