@@ -1,4 +1,5 @@
 # Minishell-Testing {EPITECH}
+AS OF NOW, ONLY BASIC TESTS ARE HANDLED -> minishell1: no redirections, nor pipes
 
 # Description
 Python script that executes commands in your minishell and in the tcsh shell to compare them.
